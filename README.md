@@ -4,7 +4,9 @@
 
 语雀首页：https://www.yuque.com/huyouda
 
+不同分支对应不同内容的学习笔记和源码。
+
 分支：
-- `typescript` TS 学习笔记
-- `nodejs` nodejs 学习笔记
+- `typescript` [TypeScript](https://www.typescriptlang.org/) 学习笔记
+- `nodejs` [Node.js](https://nodejs.org/en) 学习笔记
 - `fe-modularization` 前端模块化 学习笔记
