@@ -5,5 +5,6 @@
 语雀首页：https://www.yuque.com/huyouda
 
 分支：
-- typescript：存放 typescript 的相关源码
-- nodejs：存放 nodejs 的相关源码
+- `typescript`
+- `nodejs`
+- `fe-modularization` 前端模块化
