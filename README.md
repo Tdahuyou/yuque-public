@@ -1,1 +1,1 @@
-typescript 学习笔记
+electron 学习笔记
