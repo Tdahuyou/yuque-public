@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>24.02.24</title>
+  </head>
+  <body>
+    <h1>renderer process</h1>
+    <button id="btn">ipcRenderer.send('message-from-renderer', 1, 2, 3)</button>
+    <script>
+      const { ipcRenderer } = require('electron')
+      const now = () =>
+        new Date().toLocaleTimeString('en-US', {
+          hour12: false,
+          hour: '2-digit',
+          minute: '2-digit',
+          second: '2-digit',
+        })
+      // console.log(document.getElementById('btn') === btn) // true
+
+      btn.onclick = async () => {
+        console.log(
+          now(), '按钮被点击了，向主进程发起 message-from-renderer 请求，并传入请求参数 1、2、3'
+        )
+        await ipcRenderer.invoke('message-from-renderer', 1, 2, 3)
+        console.log(now(), 'after call invoke')
+      }
+    </script>
+  </body>
+</html>
