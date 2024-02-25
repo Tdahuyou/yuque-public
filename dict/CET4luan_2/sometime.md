@@ -1,0 +1,26 @@
+# 音标
+
+- 英 `/'sʌmtaɪm/`
+- 美 `/'sʌmtaɪm/`
+
+# 词义
+
+adv. 在某一时候；从前
+`at a time in the future or in the past, although you do not know exactly when`
+
+# 同义
+
+adj. 以前的；某一时间的
+`previous` `ago`
+
+# 同根
+
+- adj. `some` 一些；某一；大约
+- pron. `some` 一些；若干
+
+# 例句
+
+We’ll take a vacation sometime in September.
+我们将在 9 月份的某个时候休假。
+
+

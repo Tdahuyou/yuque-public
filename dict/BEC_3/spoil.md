@@ -1,0 +1,54 @@
+# 音标
+
+- 英 `/spɔil/`
+- 美 `/spɔɪl/`
+
+# 词义
+
+v. 毁掉，糟蹋，破坏
+`to have a bad effect on something so that it is no longer attractive, enjoyable, useful etc`
+
+n. 〔矿井里或地下挖出的〕废石方，弃土
+`waste material such as earth and stones from a mine or hole in the ground`
+
+
+
+s + poil(看作boil， 煮) → 煮坏了 → 糟蹋
+
+# 同义
+
+vt. 溺爱；糟蹋；掠夺
+`harry` `dote upon`
+
+vi. 掠夺；变坏；腐败
+`prey upon` `take a turn for the worse`
+
+n. 次品；奖品
+`prize` `award` `inferior`
+
+# 同根
+
+- adj. `spoilt` 宠坏的；损坏的
+- n. `spoilage` 损坏，糟蹋；掠夺；损坏物
+- n. `spoiler` 扰流器；掠夺者；损坏者
+- v. `spoilt` 宠坏；毁坏（spoil的过去式及过去分词）
+
+# 短语
+
+- `the spoils of war` 战利品
+
+# 例句
+
+The whole park is spoiled by litter.
+整个公园环境都给垃圾破坏了。
+
+We didn’t let the incident spoil our day.
+我们没有让这件事破坏我们一整天的气氛。
+
+I don’t want to spoil your fun.
+我不想扫你的兴。
+
+Why do you always have to spoil everything ?
+你为什么老是要把一切都弄糟呢？
+
+

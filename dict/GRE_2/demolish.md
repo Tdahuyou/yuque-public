@@ -1,0 +1,29 @@
+# 音标
+
+- 英 `/dɪ'mɒlɪʃ/`
+- 美 `/dɪ'mɑlɪʃ/`
+
+# 词义
+
+v. 毁坏,破坏,推翻,粉碎
+`to prove that an idea or opinion is completely wrong`
+
+
+
+de(加强) + mol(碾碎) + ish → 摧毁
+
+# 同义
+
+vt. 拆除；破坏；毁坏；推翻；驳倒
+`destroy` `undermine`
+
+# 同根
+
+- n. `demolition` 拆除（等于demolishment）；破坏；毁坏
+
+# 例句
+
+He demolished my argument in minutes.
+他几分钟内就把我的论点驳倒了。
+
+

@@ -2,7 +2,7 @@ const { SUB_TITLE } = require('./const')
 
 /* -- 词义部分 -- */
 /*
-# ${SUB_TITLE.trans}
+${SUB_TITLE.trans}
 
 ${trans[i]}. ${trans[i].tranCn}
 
@@ -24,7 +24,7 @@ function parseTrans(word) {
     }
   }
 
-  return `# ${SUB_TITLE.trans}
+  return `${SUB_TITLE.trans}
 
 ${text}`
 }

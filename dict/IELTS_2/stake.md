@@ -1,0 +1,41 @@
+# 音标
+
+- 英 `/steɪk/`
+- 美 `/stek/`
+
+# 词义
+
+n. 木桩；赌注；利害关系
+`if you have a stake in something, you will get advantages if it is successful, and you feel that you have an important connection with it`
+
+
+
+s + take(带来) → 带来赌金 → 赌金
+
+# 同义
+
+n. 桩，棍子；赌注；火刑；奖金
+`bonus` `dividend`
+
+vt. 资助，支持；系…于桩上；把…押下打赌
+`encourage` `carry` `fund` `second` `back`
+
+vi. 打赌
+`lay` `make a bet`
+
+# 短语
+
+- `at stake` 危如累卵；处于危险中；在紧要关头
+- `stake someone to something` 为某人取得某物而提供金钱(或援助)，资助某人取得某物
+- `equity stake` 股权
+- `go to the stake` ◎(被绑在火刑柱上)受火刑
+- `have a stake in` 与…利害攸关
+- `stake out` 监视；立桩标出；派警察监视
+- `stake on` 在...上打赌；把赌注押在...上面
+
+# 例句
+
+Young people don’t feel they have a stake in the country’s future.
+年轻人觉得自己与国家的未来没有关系。
+
+

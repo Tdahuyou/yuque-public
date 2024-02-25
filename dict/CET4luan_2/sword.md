@@ -1,0 +1,37 @@
+# 音标
+
+- 英 `/sɔːd/`
+- 美 `/sɔːrd/`
+
+# 词义
+
+n. 剑，刀
+`a weapon with a long pointed blade and a handle`
+
+
+
+s ＋ word (字) → 字中显剑法(张艺谋电影《英雄》) → 剑
+
+# 同义
+
+n. 刀，剑；武力，战争
+`blade` `knife` `force` `war`
+
+# 短语
+
+- `double-edged sword` 双刃剑（指对双方皆不利的局面，或敌我不分的计谋）；双面刃
+- `put to the sword` 屠杀；杀死
+- `two-edged sword` 双刃剑
+- `cross swords` v. 交锋；争论
+- `sword and shield` 剑与盾
+- `at swords' points` 剑拔弩张
+- `sword of damocles` 达摩克利斯之剑；临头的危险
+- `draw the sword` ◎拔剑
+- `sword dance` 挥剑而舞；穿行于刀尖间之舞
+
+# 例句
+
+He girded his sword on.
+他佩带上他的剑。
+
+

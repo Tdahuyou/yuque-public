@@ -1,0 +1,21 @@
+# 音标
+
+- 英 `/næk/`
+- 美 `/næk/`
+
+# 词义
+
+n. 诀窍；本领；熟练技术；巧妙手法
+`a natural skill or ability`
+
+# 同义
+
+n. 诀窍；本领；熟练技术；巧妙手法
+`skill` `know-how`
+
+# 例句
+
+He's got the knack of getting people to listen.
+他有让人们倾听的诀窍。
+
+

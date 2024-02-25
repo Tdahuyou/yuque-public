@@ -2,7 +2,7 @@ const { SUB_TITLE } = require('./const')
 
 /* -- 短语部分 -- */
 /*
-# ${SUB_TITLE.phrase}
+${SUB_TITLE.phrase}
 
 */
 function parsePhrase(word) {
@@ -16,7 +16,7 @@ function parsePhrase(word) {
     })
   }
 
-  return text ? `# ${SUB_TITLE.phrase}
+  return text ? `${SUB_TITLE.phrase}
 
 ${text}
 ` : ''

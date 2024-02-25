@@ -1,0 +1,44 @@
+# 音标
+
+- 英 `/brauz/`
+- 美 `/braʊz/`
+
+# 词义
+
+v. 吃草；浏览
+`to look through the pages of a book, magazine etc without a particular purpose, just looking at the most interesting parts`
+
+n. 嫩叶；嫩芽
+
+
+
+
+brow(眉毛) + se → 吃像眉毛一样的草 → 吃草
+
+# 同义
+
+vt. 浏览；吃草
+`scan` `glance through`
+
+vi. 浏览；吃草；漫不经心地看商品
+`page` `glance through`
+
+n. 浏览；吃草
+`lookthrough` `scan`
+
+# 同根
+
+- n. `browser` [计] 浏览器；吃嫩叶的动物；浏览书本的人
+- n. `browsing` 浏览
+- v. `browsing` 浏览；吃草（browse的ing形式）
+
+# 短语
+
+- `browse through` 浏览；翻阅
+
+# 例句
+
+a feature that allows you to browse your hard drive and choose the graphic you want to display
+让你可以浏览硬盘驱动器选择自己想要显示的图像的一个功能
+
+

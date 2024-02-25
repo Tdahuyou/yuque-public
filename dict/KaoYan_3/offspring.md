@@ -1,0 +1,25 @@
+# 音标
+
+- 英 `/'ɒfsprɪŋ/`
+- 美 `/'ɔfsprɪŋ/`
+
+# 词义
+
+n. 子孙，后代；结果，产物
+`someone’s child or children – often used humorously`
+
+
+
+off(出来)+spring(春天)→春华秋实→结果
+
+# 同义
+
+n. [生物]后代，子孙；产物
+`child` `creation` `fruit` `seed`
+
+# 例句
+
+a young mother trying to control her offspring
+一个想管住自己孩子的年轻妈妈
+
+

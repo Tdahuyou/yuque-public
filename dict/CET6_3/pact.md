@@ -1,0 +1,30 @@
+# 音标
+
+- 英 `/pækt/`
+- 美 `/pækt/`
+
+# 词义
+
+n. 契约，协定，条约
+`a formal agreement between two groups, countries, or people, especially to help each other or to stop fighting`
+
+
+
+p ＋ act(行为) → 签订“条约、 协定”是为了约束行为 → 条约
+
+# 同义
+
+n. 协定；公约；条约；契约
+`convention` `treaty` `compact`
+
+# 短语
+
+- `trade pact` 贸易协定
+- `warsaw pact` 华沙公约
+
+# 例句
+
+the Warsaw pact
+华沙条约
+
+

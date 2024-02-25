@@ -1,0 +1,28 @@
+# 音标
+
+- 英 `/klæn/`
+- 美 `/klæn/`
+
+# 词义
+
+n. 宗族，家族
+`a large group of families who often share the same name`
+
+
+
+家族(clan)计划(plan)
+
+# 同义
+
+n. 宗族；部落；集团
+`nationality` `collective` `tribe`
+
+# 例句
+
+the Campbell clan
+坎贝尔家族
+
+warring clans
+交战的各氏族
+
+

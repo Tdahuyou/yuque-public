@@ -1,0 +1,35 @@
+# 音标
+
+- 英 `/krɪn(d)ʒ/`
+- 美 `/krɪndʒ/`
+
+# 词义
+
+v. 畏缩；奉承；阿谀
+`to move away from someone or something because you are afraid`
+
+n. 畏缩；奉承
+
+
+# 同义
+
+vi. 畏缩；奉承；阿谀
+`honey` `recoil from`
+
+n. 畏缩；奉承
+`court` `flattery`
+
+# 同根
+
+- adj. `cringing` 谄媚（的）
+- n. `cringing` 奉承（的）
+
+# 例句
+
+A stray dog was cringing by the door.
+一条流浪狗畏缩在门旁。
+
+She cringed away from him.
+她退缩着躲开他。
+
+

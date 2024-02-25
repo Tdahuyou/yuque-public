@@ -1,0 +1,23 @@
+# 音标
+
+- 英 `/'perɪʃəb(ə)l/`
+- 美 `/'pɛrɪʃəbl/`
+
+# 词义
+
+a&n. (尤指食物)易坏的,易腐烂的;易坏之物"
+
+
+# 同根
+
+- n. `perishability` 非持久性；易腐性
+- n. `perishableness` 腐败性；易朽性
+- n. `perisher` 讨厌的人；死亡的东西；做事卤莽的人
+- vi. `perish` 死亡；毁灭；腐烂；枯萎
+- vt. `perish` 使麻木；毁坏
+
+# 短语
+
+- `perishable goods` 易腐货物；易损物品
+- `perishable food` 容易腐坏的食品；易腐食品
+

@@ -1,0 +1,46 @@
+# 音标
+
+- 英 `/sə'fistikeitid/`
+- 美 `/sə'fɪstɪketɪd/`
+
+# 词义
+
+adj. 尖端的，复杂的，先进的；老练的，老于世故的
+`a sophisticated machine, system, method etc is very well designed and very advanced, and often works in a complicated way`
+
+
+
+来自sophisticate (n. 久经世故的人)
+
+# 同义
+
+adj. 复杂的；精致的；久经世故的；富有经验的
+`complicated` `experienced` `involved` `detailed` `exquisite`
+
+v. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）
+`mystified`
+
+# 同根
+
+- adj. `sophomore` 二年级的；二年级学生的
+- adv. `sophisticatedly` 老练地
+- n. `sophomore` 大学二年级生；（美）有二年经验的人
+- n. `sophisticate` 久经世故的人；精通者
+- n. `sophistication` 复杂；诡辩；老于世故；有教养
+- vi. `sophisticate` 诡辩
+- vt. `sophisticate` 弄复杂；使变得世故；曲解
+
+# 短语
+
+- `sophisticated technology` 工艺精良
+- `sophisticated equipment` 尖端设备；高级设备
+
+# 例句
+
+sophisticated software
+很先进的软件
+
+a highly sophisticated weapons system
+非常精密的武器系统
+
+

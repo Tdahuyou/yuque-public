@@ -1,0 +1,30 @@
+# 音标
+
+- 英 `/'frɒlɪks(ə)m/`
+- 美 `/'frɑlɪksəm/`
+
+# 词义
+
+adj. 嬉戏的，爱闹着玩的
+`given to frolicking; merry and playful `
+
+# 同义
+
+adj. 嬉戏的，爱闹着玩的
+`larkish` `sportive`
+
+# 同根
+
+- adj. `frolic` 嬉戏的，欢乐的
+- n. `frolic` 嬉闹，嬉戏
+- vi. `frolic` 嬉戏
+
+# 例句
+
+In the not too distant future.When the pup had grown lanky and 26)frolicsome—the wolf would return to the mountainside.
+在不远的将来，当小狗崽长到可以四处奔跑嬉戏的时候——狼会回到山坡。
+
+Grass was awarded the Nobel Prize in 1999 for his "frolicsome black fables [which] portray the forgotten face of history".
+格拉斯因他“嬉闹的黑色寓言、描绘历史被遗忘的一面”获得1999年诺贝尔文学奖。
+
+

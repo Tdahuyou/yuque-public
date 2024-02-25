@@ -1,0 +1,30 @@
+# 音标
+
+- 英 `/'rɪdɪkjuːl/`
+- 美 `/'rɪdɪ'kjʊl/`
+
+# 词义
+
+v. 嘲弄，挖苦
+`to laugh at a person, idea etc and say that they are stupid`
+
+n. 嘲弄，挖苦
+`unkind laughter or remarks that are intended to make someone or something seem stupid`
+
+# 同义
+
+vt. 嘲笑；嘲弄；愚弄
+`guy` `deride`
+
+n. 嘲笑；笑柄；愚弄
+`joke` `derision`
+
+# 例句
+
+At the time, his ideas were ridiculed.
+当时他的观点被人讥笑。
+
+He had become an object of ridicule among the other teachers.
+他成了其他教师嘲笑的对象。
+
+

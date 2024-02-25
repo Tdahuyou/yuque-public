@@ -1,0 +1,44 @@
+# 音标
+
+- 英 `/'sterɪəʊ; 'stɪərɪəʊ/`
+- 美 `/'stɛrɪo/`
+
+# 词义
+
+n. 立体声；立体声系统；铅版；立体照片
+`a machine for playing records,  cds  etc that produces sound from two  speakers `
+
+adj. 立体的；立体声的；立体感觉的
+`using a recording or broadcasting system in which the sound is directed through two  speakers `
+
+# 同义
+
+n. [声]立体声；立体声系统；[印刷]铅版；立体照片
+`dimensional sound`
+
+adj. [声]立体的；立体声的；立体感觉的
+`solid` `tridimensional`
+
+# 同根
+
+- adj. `stereotyped` 用铅版印刷的；老一套的
+- adj. `stereoscopic` 立体的；体视镜的；有立体感的
+- adj. `stereophonic` 立体声的，立体音响的
+- n. `steradian` 球面度；立体弧度（等于sterad）
+- n. `stereophony` 立体声；立体音响
+- n. `stereoscopy` [测] 体视学；体视术；体视法；立体观视；实体镜学
+- v. `stereotyped` 把…浇铸成铅版；使成为陈规（stereotype的过去分词）
+
+# 短语
+
+- `stereo system` n. 立体音响系统
+- `stereo display` 立体显示
+- `stereo type` 定型
+- `stereo effect` 立体声效应
+
+# 例句
+
+a stereo with good speakers
+扬声器音质好的立体声音响
+
+

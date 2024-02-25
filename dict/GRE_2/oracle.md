@@ -1,0 +1,25 @@
+# 音标
+
+- 英 `/'ɒrək(ə)l/`
+- 美 `/'ɔrəkl/`
+
+# 词义
+
+n. [宗](古希腊)神谕,预言,神谕处,神使,哲人,圣贤美国ORACLE公司,主要生产数据库产品,也是主要的网络计算机的倡导者
+`someone who the ancient Greeks believed could communicate with the gods, who gave advice to people or told them what would happen`
+
+
+
+ora(说话) + cle → 代神发布神谕的人
+
+# 同义
+
+n. 神谕；预言；神谕处；圣人
+`prediction` `message`
+
+# 短语
+
+- `oracle bone` 甲骨（中国商朝用来刻写占卜文字的龟甲兽骨）
+- `oracle bone inscriptions` 甲骨文
+- `delphic oracle` 德尔斐神谕
+

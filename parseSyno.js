@@ -2,7 +2,7 @@ const { SUB_TITLE } = require('./const')
 
 /* -- 同近词部分 -- */
 /*
-# ${SUB_TITLE.syno}
+${SUB_TITLE.syno}
 
 */
 function parseSyno(word) {
@@ -12,12 +12,12 @@ function parseSyno(word) {
     const synos = word.syno.synos
     for (let i = 0; i < synos.length; i++) {
       const s = synos[i];
-      const w = s.hwds.map(h => `\`${h.w}\``).join(' ')
-      text += `${s.pos}. ${s.tran}` + '\n' + w + '\n\n';
+      const words = s.hwds.map(h => `\`${h.w}\``).join(' ')
+      text += (`${s.pos}. ${s.tran}` + '\n' + words + '\n\n');
     }
   }
 
-  return text ? `# ${SUB_TITLE.syno}
+  return text ? `${SUB_TITLE.syno}
 
 ${text}` : ''
 }

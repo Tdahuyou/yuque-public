@@ -1,0 +1,79 @@
+# 音标
+
+- 英 `/kwɪk/`
+- 美 `/kwɪk/`
+
+# 词义
+
+adj. 快的，短时间的；迅速的
+`lasting for or taking only a short time`
+
+# 同义
+
+n. 核心；伤口的嫩肉
+`core` `kernel` `nucleus`
+
+adj. 快的；迅速的，敏捷的；灵敏的
+`sensitive` `rapid` `fast` `forward` `ready`
+
+adv. 迅速地，快
+`rapidly` `soon` `fast` `promptly` `ready`
+
+# 同根
+
+- adj. `quicker` 快些（quick的形容词比较级）
+- adj. `quickening` 使活泼的；使复苏的
+- adv. `quickly` 迅速地；很快地
+- n. `quickening` 胎动；兴奋
+- n. `quickness` 急速，迅速；尖锐化
+- v. `quickening` 加速；活跃（quicken的ing形式）
+- vi. `quicken` 加快；变活跃；进入胎动期
+- vt. `quicken` 加快；鼓舞；使复活
+
+# 短语
+
+- `quick response` 快速响应，快速反应
+- `to the quick` 触及要害；触及痛处
+- `quick profit` 暴利
+- `quick access` 快速存取
+- `quick recovery` 快速恢复；快速回收；快速列支；迅速复原
+- `quick action` 快作用；快动的
+- `quick service` 快速服务；送货迅速
+- `quick temper` 急性子；性情急躁
+- `quick thinking` 思考迅速，敏捷的思维
+- `quick fix` 权宜之计
+- `quick start` [计]快速启动
+- `quick on the trigger` [美国口语]
+- `quick change` 可快速调换的；善变的
+- `quick sort` 快速分类
+- `quick learner` 学习能力强的人
+- `in quick succession` 紧接地
+- `quick eye` 慧眼，敏锐的眼力
+- `quick test` 快速试验
+- `quick release` 快拆杆；快速断路
+- `quick at` 敏捷；于…很迅速
+
+# 例句
+
+That was quick! I thought you’d be another hour.
+很快啊！我以为你还要一个小时呢。
+
+It’s probably quicker by train.
+乘火车可能会快一点。
+
+Have we got time for a quick drink?
+我们有时间喝口东西吗？
+
+What’s the quickest way to the station?
+到车站怎么走最快？
+
+We stopped to have a quick look at the church.
+我们停下来迅速地扫了一眼教堂。
+
+Three bombs went off in quick succession (= quickly, one after the other ).
+瞬间有三个炸弹连续爆炸。
+
+She walked with short, quick steps.
+她迈着小碎步疾行。
+
+

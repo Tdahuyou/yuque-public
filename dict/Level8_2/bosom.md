@@ -1,0 +1,45 @@
+# 音标
+
+- 英 `/'bʊz(ə)m/`
+- 美 `/'bʊzəm/`
+
+# 词义
+
+n. 胸；胸怀；中间；胸襟；内心；乳房；内部
+`the front part of a woman’s chest`
+
+v. 怀抱；把…藏在心中
+
+
+adj. 知心的；亲密的
+`A bosom buddy is a friend who you know very well and like very much`
+
+# 同义
+
+n. 胸；胸怀；中间；胸襟；内心；乳房；内部
+`chest` `breast` `interior` `inside` `middle`
+
+vt. 怀抱；把…藏在心中
+`cherish` `imbosom`
+
+adj. 知心的；亲密的
+`close` `intimate`
+
+# 同根
+
+- adj. `bosomy` （女人）胸部丰满的；鼓起的
+
+# 短语
+
+- `bosom friend` 知己；知心朋友；契友
+- `in the bosom of` 在（亲人）之间
+
+# 例句
+
+She cradled the child to her bosom.
+她把那孩子抱入怀中。
+
+They were bosom buddies.
+他们曾是知心的伙伴。
+
+

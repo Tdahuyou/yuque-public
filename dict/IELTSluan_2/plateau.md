@@ -1,0 +1,40 @@
+# 音标
+
+- 英 `/'plætəʊ/`
+- 美 `/plæ'to/`
+
+# 词义
+
+n. 高原
+`a large area of flat land that is higher than the land around it`
+
+
+
+plat(平的) + eau → 高出平地的地 → 高原
+
+# 同义
+
+n. [地理]高原；稳定水平；托盘；平顶女帽
+`altiplano` `high land`
+
+vi. 达到平衡；达到稳定时期
+`level out`
+
+# 短语
+
+- `loess plateau` 黄土高原
+- `tibetan plateau` 青藏高原
+- `qinghai-tibet plateau` 青藏高原
+- `tibet plateau` 青藏高原
+- `colorado plateau` 科罗拉多高原（美国西南部高原）
+- `plateau phenomenon` 高原现象
+- `high plateau` 高地，高原
+- `plateau climate` 高原气候
+- `career plateau` 职业高原；职业生涯高原
+
+# 例句
+
+A broad valley opened up leading to a high, flat plateau of cultivated land.
+一个宽阔的山谷展开，通向一片平坦的高原耕地。
+
+

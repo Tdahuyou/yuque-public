@@ -2,7 +2,7 @@ const { SUB_TITLE } = require('./const')
 
 /* -- 例句部分 -- */
 /*
-# ${SUB_TITLE.sentence}
+${SUB_TITLE.sentence}
 
 */
 function parseSentence(word) {
@@ -12,11 +12,11 @@ function parseSentence(word) {
     const sentence = word.sentence
     const sentences = sentence.sentences
     sentences.forEach(s => {
-      text += `\`${s.sContent}\`` + '\n' + s.sCn + '\n\n'
+      text += `${s.sContent}` + '\n' + s.sCn + '\n\n'
     })
   }
 
-  return text ? `# ${SUB_TITLE.sentence}
+  return text ? `${SUB_TITLE.sentence}
 
 ${text}
 ` : ''

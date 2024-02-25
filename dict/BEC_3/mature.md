@@ -1,0 +1,49 @@
+# 音标
+
+- 英 `/mə'tʃuə/`
+- 美 `/mə'tʃʊr/`
+
+# 词义
+
+v. 到期；成熟，长成
+`to become fully grown or developed`
+
+adj. 熟的，成熟的；成年人的；深思熟虑的，慎重的；到期的，应支付的
+`fully grown and developed`
+
+
+
+和nature (n. 自然)一起记
+
+# 同义
+
+adj. [农学][地质]成熟的；充分考虑的；到期的；成年人的
+`developed` `adult` `due`
+
+vi. [农学][地质]成熟；到期
+`age` `flower`
+
+# 同根
+
+- adj. `matured` 成熟的；到期的
+- adv. `maturely` 成熟地；充分地
+- n. `maturity` 成熟；到期；完备
+- n. `maturation` 成熟；化脓；生殖细胞之形成
+- v. `matured` 成熟；到期（mature的过去分词）
+- vi. `maturate` 成熟；化脓
+- vt. `maturate` 成熟；化脓；使化脓
+
+# 短语
+
+- `mature market` 成熟的市场
+- `mature stage` 成熟期；产品生命成熟期
+- `mature market economy` 成熟的市场经济
+- `mature embryo` 成熟胚
+- `mature adult` 成熟的成年人
+
+# 例句
+
+As the fish matures, its colours and patternings change.
+随着发育成熟，这种鱼的颜色和斑纹都会改变。
+
+

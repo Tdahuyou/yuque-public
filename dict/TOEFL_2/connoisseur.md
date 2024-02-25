@@ -1,0 +1,25 @@
+# 音标
+
+- 英 `/,kɒnə'sɜː/`
+- 美 `/,kɑnə'sɝ/`
+
+# 词义
+
+n. 鉴赏家
+`someone who knows a lot about something such as art, food, or music`
+
+# 同义
+
+n. 鉴赏家；内行
+`sharp` `maven`
+
+# 同根
+
+- n. `connoisseurship` 鉴赏力，鉴赏家身份
+
+# 例句
+
+a wine connoisseur
+品酒专家
+
+

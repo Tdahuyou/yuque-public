@@ -1,0 +1,34 @@
+# 音标
+
+- 英 `/'virjulənt/`
+- 美 `/'vɪrələnt/`
+
+# 词义
+
+adj. 有剧毒的；致命的；敌意的，痛恨的，恶毒的
+`a poison, disease etc that is virulent is very dangerous and affects people very quickly`
+
+
+
+virul (看作virus， 病毒) + ent (…的) → (像病毒一样) 毒的 → 有毒的
+
+# 同义
+
+adj. 剧毒的；恶性的；有恶意的
+`malignant` `pernicious`
+
+# 同根
+
+- adv. `virulently` 恶毒地
+- n. `virulence` 毒力；毒性；恶意（等于virulency）
+
+# 短语
+
+- `virulent strain` 强毒株；毒性菌株，有毒菌株
+
+# 例句
+
+a particularly virulent form of influenza
+特别凶猛的一种流感
+
+

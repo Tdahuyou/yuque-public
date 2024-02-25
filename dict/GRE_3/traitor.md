@@ -1,0 +1,31 @@
+# 音标
+
+- 英 `/'treɪtər/`
+- 美 `/'tretɚ/`
+
+# 词义
+
+n. 卖国贼，叛徒
+`someone who is not loyal to their country, friends, or beliefs`
+
+
+
+参考traditor(n. 叛教者)
+
+# 同义
+
+n. 叛徒；卖国贼；背信弃义的人
+`rat` `betrayer`
+
+# 同根
+
+- adj. `traitorous` 叛逆的；不忠的；背叛的
+- adv. `traitorously` 叛逆地；不忠地
+- n. `traitress` 女性叛逆者
+
+# 例句
+
+...rumours that there were traitors among us who were sending messages to the enemy.
+…谣言说我们中有正给敌人送信的叛徒。
+
+

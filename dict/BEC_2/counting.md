@@ -1,0 +1,36 @@
+# 音标
+
+- 英 `/'kaʊntɪŋ/`
+- 美 `/'kaʊntɪŋ/`
+
+# 词义
+
+n. [数]计算，计数
+
+
+# 同义
+
+n. 计算，[数]计数
+`calculation` `computation` `valuation`
+
+# 同根
+
+- adj. `counter` 相反的
+- adj. `countless` 无数的；数不尽的
+- adj. `countable` 可计算的；能算的
+- adv. `counter` 相反地
+- n. `count` 计数；计算；伯爵
+- n. `counter` 计数器，计算器；柜台；计算者
+- n. `countable` 可数名词；可数的东西
+- v. `counter` 反击；反对
+- vi. `count` 计数；有价值
+- vt. `count` 计算；认为
+
+# 短语
+
+- `counting down` 倒计时，脉冲分频
+- `double counting` 重复计算
+- `counting circuit` 计数电路
+- `head counting` 清点人数；民意测验
+- `cycle counting` 周期盘点，循环盘点
+

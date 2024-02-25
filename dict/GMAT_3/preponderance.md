@@ -1,0 +1,32 @@
+# 音标
+
+- 英 `/prɪ'pɑːndərəns/`
+- 美 `/prɪ'pɑndərəns/`
+
+# 词义
+
+n. 优势；多数
+`if there is a preponderance of people or things of a particular type in a group, there are more of that type than of any other`
+
+
+
+pre(前面) + ponder(重量) + ance → 重量排名靠前 → 优势； 多数
+
+# 同义
+
+n. 优势；多数；占优势
+`majority` `superiority` `advantage` `edge` `dominance`
+
+# 同根
+
+- adj. `preponderant` 占优势的；突出的；压倒性的
+- adv. `preponderantly` 占优势地，多数地
+- vi. `preponderate` （在重量、数量、力量等方面）占优势
+- vt. `preponderate` 胜过；压倒
+
+# 例句
+
+There is a preponderance of female students in the music department.
+在音乐系里女学生占大多数。
+
+

@@ -1,0 +1,31 @@
+# 音标
+
+- 英 `/pə'luːsɪd/`
+- 美 `/pe'lju:sid/`
+
+# 词义
+
+adj. 清晰的，清澈的
+`very clear`
+
+
+
+pel(=per全部) ＋ luc(光)  + id → 光线充足的 → 清晰的
+
+# 同义
+
+adj. [昆]透明的；清晰的；明了的
+`transparent` `defined` `plain` `crystal`
+
+# 同根
+
+- adv. `pellucidly` 透明地；易懂地
+- n. `pellucidity` 透彻度；透明性；透明度
+- n. `pellucidness` 透明性，透明度；（糖液）透光度
+
+# 例句
+
+a pellucid stream
+清澈的小溪
+
+

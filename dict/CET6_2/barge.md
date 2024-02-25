@@ -1,0 +1,30 @@
+# 音标
+
+- 英 `/bɑːdʒ/`
+- 美 `/bɑrdʒ/`
+
+# 词义
+
+n. 驳船；大型游船
+`a large low boat with a flat bottom, used for carrying goods on a canal or river`
+
+# 同义
+
+vi. 蹒跚；闯入
+`titubate` `burst into`
+
+n. [船]驳船；游艇
+`lighter` `catamaran`
+
+# 短语
+
+- `barge in` v. 闯入；干涉
+- `barge into` 闯入；与…相撞
+- `barge pole` n. 驳船撑竿
+
+# 例句
+
+Carrying goods by train costs nearly three times more than carrying them by barge.
+通过铁路运货的成本比驳船运货成本高出近3倍。
+
+

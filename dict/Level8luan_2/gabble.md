@@ -1,0 +1,24 @@
+# 音标
+
+- 英 `/'gæb(ə)l/`
+- 美 `/'gæbl/`
+
+# 词义
+
+v. 急促而含糊地说话
+`to say something so quickly that people cannot hear you clearly or understand you properly`
+
+n. 急促不清的话
+
+
+# 同义
+
+vt. 喋喋不休地说；七嘴八嘴地说
+`rattle on` `rattle away`
+
+# 例句
+
+Just calm down, stop gabbling, and tell me what has happened.
+冷静一下，说话别太急，告诉我发生了什么事。
+
+

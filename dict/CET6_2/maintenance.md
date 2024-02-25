@@ -1,0 +1,53 @@
+# 音标
+
+- 英 `/'meɪnt(ə)nəns; -tɪn-/`
+- 美 `/'mentənəns/`
+
+# 词义
+
+n. 扶养费；维持
+`money paid by someone who is divorced to their former wife or husband`
+
+# 同义
+
+n. 维护，维修；保持；[经]生活费用
+`conservation` `keep`
+
+# 同根
+
+- adj. `maintainable` 可维持的；可主张的；可维修的
+- n. `maintainer` 维修工；保持器
+- vt. `maintain` 维持；继续；维修；主张；供养
+
+# 短语
+
+- `operation and maintenance` 使用和维护
+- `equipment maintenance` 设备维修；设备保养
+- `maintenance cost` 维护费用
+- `preventive maintenance` 预防性维修；定期检修
+- `maintenance work` 维修工作
+- `system maintenance` 系统维护，系统维修
+- `maintenance and repair` 保养和修理
+- `maintenance management` 维修管理
+- `maintenance service` 维护服务；技术维修，技术维护
+- `repair and maintenance` 检修；修理和维护
+- `vehicle maintenance` 汽车维护，车辆保养
+- `daily maintenance` 日常保养，日常维护
+- `routine maintenance` 日常维修；例行维护
+- `maintenance personnel` 维修人员
+- `maintenance plan` 技术维护计划
+- `low maintenance` 少量维护保养；维修费用低；工作量不大的技术维护
+- `network maintenance` 网络维护
+- `maintenance department` 维修部；保养部
+- `machine maintenance` n. 机器保养
+- `software maintenance` 软件维护；软件服务
+
+# 例句
+
+They have to find the fathers who abandon their children and make them pay maintenance.
+他们必须找到那些抛弃子女的父亲，让他们支付抚养费。
+
+The purpose of the UN is the maintenance of international peace and security.
+联合国的宗旨是维护世界和平与安全。
+
+

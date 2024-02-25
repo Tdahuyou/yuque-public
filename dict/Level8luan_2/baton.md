@@ -1,0 +1,25 @@
+# 音标
+
+- 英 `/bə'tɑ:n/`
+- 美 `/bə'tɑn/`
+
+# 词义
+
+n. 指挥棒；接力棒；警棍；司令棒
+`a short thin stick used by a  conductor (=  the leader of a group of musicians  )  to direct the music`
+
+# 同义
+
+n. 指挥棒；接力棒；警棍；司令棒
+`night stick` `billy club`
+
+# 短语
+
+- `baton rouge` 巴吞鲁日（美国路易斯安那州首府）
+
+# 例句
+
+The maestro raises his baton.
+大师举起他的指挥棒。
+
+

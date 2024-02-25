@@ -1,0 +1,33 @@
+# 音标
+
+- 英 `/ə'kʌr(ə)ns/`
+- 美 `/ə'kʌrəns/`
+
+# 词义
+
+n. 发生的事
+`something that happens`
+
+# 同义
+
+n. 发生；出现；事件；发现
+`emergence` `going on` `event` `discovery` `appearance` `circumstance` `scene`
+
+# 同根
+
+- adj. `occurrent` 正在发生的；偶然发生的
+- vi. `occur` 发生；出现；存在
+
+# 短语
+
+- `probability of occurrence` 发生概率；事件概率
+
+# 例句
+
+Laughter was a rare occurrence in his classroom.
+他的课堂上难得有笑声。
+
+Flooding in the area is a common occurrence.
+该地区经常发生水灾。
+
+

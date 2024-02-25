@@ -1,0 +1,35 @@
+# 音标
+
+- 英 `/dɪ'spɪkəbl/`
+- 美 `/dɪ'spɪkəbl/`
+
+# 词义
+
+adj. 可鄙的，卑劣的
+`extremely bad, immoral, or cruel`
+
+
+
+de + spic(看) + able → 不值得看的 → 卑劣的
+
+# 同义
+
+adj. 卑劣的；可鄙的
+`contemptible` `underhanded`
+
+# 同根
+
+- adv. `despicably` 可鄙地；卑劣地
+
+# 例句
+
+It’s despicable the way he treats those kids.
+他那样对待那些孩子，真卑鄙。
+
+a despicable act of terrorism
+卑劣的恐怖主义行径
+
+a despicable crime
+卑鄙的罪行
+
+

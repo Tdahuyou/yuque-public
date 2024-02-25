@@ -1,0 +1,62 @@
+# 音标
+
+- 英 `/'riːzənɪŋ/`
+- 美 `/'rizənɪŋ/`
+
+# 词义
+
+adj. 推理的
+
+
+n. 推理，论证；
+`a process of thinking carefully about something in order to make a judgment`
+
+
+
+来自reason(n. 理由； 理性； v. 说服； 推论)
+
+# 同义
+
+n. 推理；论证；评理
+`argument` `inference`
+
+adj. 推理的
+`theoretical` `inferential`
+
+v. 推论；说服（reason的ing形式）
+`urging`
+
+# 同根
+
+- adj. `reasonable` 合理的，公道的；通情达理的
+- adj. `reasoned` 详尽论述的；理由充分的；合乎逻辑的
+- adj. `reasonless` 不合理的；不理智的，无理性的；无推理能力的
+- adv. `reasonably` 合理地；相当地；适度地
+- n. `reason` 理由；理性；动机
+- n. `reasonableness` 合理；妥当
+- v. `reasoned` 说服；推断（reason的过去分词）
+- vi. `reason` 推论；劝说
+- vt. `reason` 说服；推论；辩论
+
+# 短语
+
+- `logical reasoning` 逻辑推理
+- `reasoning ability` 推理能力
+- `inductive reasoning` 归纳推理；归纳法
+- `moral reasoning` 道德推理；道德理性
+- `deductive reasoning` 演绎推理，演绎推论；演绎法
+- `analogical reasoning` 类比推理
+- `reasoning test` 推理测验
+
+# 例句
+
+Let me explain my reasoning.
+让我解释我的推论。
+
+Your reasoning is comprehensive but I do not agree with you.
+你的推理是可以理解的，但我不同意你的观点。
+
+But auctions require "if he thinks that she thinks that I think that he thinks" chains of reasoning that tend to have weak links.
+不过，拍卖要求有“如果他认为她认为我认为他那么认为”的推理链条，而这种链条往往存在薄弱环节。
+
+

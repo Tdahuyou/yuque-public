@@ -1,0 +1,34 @@
+# 音标
+
+- 英 `/'sentrəlaɪz/`
+- 美 `/'sentrəlaiz/`
+
+# 词义
+
+v. 把…集中起来；形成中心
+
+
+# 同根
+
+- adj. `central` 中心的；主要的；中枢的
+- adj. `centre` 中央的
+- adj. `centralized` 集中的；中央集权的
+- adj. `centred` 固定于中心的；在中心的
+- adj. `centralist` 拥护中央集权的
+- adv. `centrally` 在中心
+- n. `central` 电话总机
+- n. `centre` 中心
+- n. `centrist` 中立派议员；中间派议员
+- n. `centrality` 中心；中央；向心性
+- n. `centralization` 集中化；中央集权管理
+- n. `centralisation` （英）集中化（等于centralization）
+- n. `centralism` 中央集权制；中央集权主义
+- n. `centralist` 中央集权主义者
+- n. `centrism` 温和主义，中间路线；中间派的政策
+- v. `centralized` 集中（centralize的过去分词）
+- v. `centred` 集中（centre的过去分词）；把…置于中央
+- vi. `centre` 以…为中心
+- vi. `centralize` 集中；实行中央集权
+- vt. `centre` 集中；将…放在中央
+- vt. `centralize` 使集中；使成为…的中心；使集权
+

@@ -1,0 +1,35 @@
+# 音标
+
+- 英 `/'pendənt/`
+- 美 `/'pɛndənt/`
+
+# 词义
+
+n. 垂饰，下垂物
+
+
+
+
+pend(悬挂) + ant → 悬挂着的东西 → 垂饰， 下垂物
+
+# 同义
+
+n. [建][地质]下垂物，垂饰
+`lappet` `bulla`
+
+# 同根
+
+- adj. `pendent` 悬而未决的；下垂的；未定的；向外伸出的
+- adj. `pendulous` 下垂的，悬垂的；摇摆的
+
+# 短语
+
+- `pendant lamp` n. 吊灯
+- `pendant light` 吊灯
+
+# 例句
+
+a ruby pendant
+红宝石吊坠
+
+

@@ -1,0 +1,48 @@
+# 音标
+
+- 英 `/dɪ'vaɪs/`
+- 美 `/dɪ'vaɪs/`
+
+# 词义
+
+n. 器械，装置；设计；手段，策略
+`a machine or tool that does a special job`
+
+
+
+de ＋ vice(代替) → 器械代替人力 → 装置
+
+# 同义
+
+n. [机]装置；策略；图案
+`apparatus` `installation` `strategy` `unit` `gear`
+
+# 短语
+
+- `control device` 控制装置，控制器
+- `medical device` 医疗设备；医疗器材；人体医疗配件
+- `protection device` 保护设备；防护设备
+- `electronic device` 电子设施，电子器件；电子仪表
+- `storage device` [计]存储设备
+- `measuring device` 测量仪器，量测工具；测量仪表
+- `mechanical device` 机械装置
+- `test device` 测试装置
+- `testing device` 测试装置
+- `device driver` 设备驱动程序
+- `safety device` 安全装置；保护装置；保险装置；安全防护装置；过载安全装置
+- `display device` [计]显示设备
+- `protective device` 防护装置
+- `mobile device` 移动设备，移动装置；行动装置
+- `driving device` 传动装置
+- `monitoring device` 监视装置
+- `feeding device` 喂送装置；装料装置
+- `input device` 输入设备
+- `power device` 功率器件；功率元件；电源设备；用电装置
+- `semiconductor device` 半导体器件；半导体装置；半导体掐
+
+# 例句
+
+modern labour-saving devices
+省力的现代设备
+
+

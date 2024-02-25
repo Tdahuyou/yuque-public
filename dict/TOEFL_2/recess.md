@@ -1,0 +1,44 @@
+# 音标
+
+- 英 `/rɪ'ses; 'riːses/`
+- 美 `/'risɛs/`
+
+# 词义
+
+n. (墙壁等的)凹进处
+`a space in the wall of a room, especially for shelves, cupboards etc`
+
+v. 使凹进,休假
+
+
+
+
+re(反) + cess(行走) → 反着走 → 暂停
+
+# 同义
+
+n. 休息；休会；凹处
+`break` `cavity` `rest`
+
+vi. 休息；休假
+`relax` `vacation`
+
+# 同根
+
+- adj. `recessive` 隐性的；逆行的；后退的
+- adj. `recessional` 后退的；（英）议会休会的
+- n. `recession` 衰退；不景气；后退；凹处
+- n. `recessive` 隐性性状
+- n. `recessional` （礼拜仪式后牧师及唱诗班退场时所唱的）退场赞美诗
+
+# 短语
+
+- `at recess` 休息，在休息时间
+- `in recess` 休息；暂停
+
+# 例句
+
+the deep recesses of the cave
+洞穴的幽深处
+
+

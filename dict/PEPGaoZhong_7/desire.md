@@ -1,0 +1,55 @@
+# 音标
+
+- 英 `/dɪ'zaɪə/`
+- 美 `/dɪ'zaɪɚ/`
+
+# 词义
+
+n. 渴望；欲望；渴求
+`a strong hope or wish`
+
+v. 希望得到；想要
+`If you desire something, you want it`
+
+
+
+要求(desire)退休(retire)
+
+# 同义
+
+n. 欲望；要求，心愿；性欲
+`requirement` `wants` `do` `need` `wish`
+
+vt. 想要；要求；希望得到…
+`feel like` `wanna` `require` `mean` `exact`
+
+vi. 渴望
+`rare` `aspire` `long for` `yearn for` `die for`
+
+# 同根
+
+- adj. `desirable` 令人满意的；值得要的
+- adj. `desired` 渴望的；想得到的
+- adj. `desirous` 渴望的；想要的
+- n. `desirable` 合意的人或事物
+- n. `desirability` 愿望；有利条件；值得向往的事物；合意
+- n. `desirableness` 满意；愿望
+- v. `desired` 渴望，要求（desire的过去分词形式）
+
+# 短语
+
+- `desire for` 渴望
+- `sexual desire` 性欲
+- `a burning desire` 强烈的愿望
+- `sincere desire` 诚心诚意
+- `desire under the elms` 榆树下的欲望（尤金奥尼尔的戏剧）
+
+# 例句
+
+I had a strong desire to help and care for people.
+我有一股强烈的帮助和关心别人的愿望。
+
+She had remarried and desired a child with her new husband.
+她再婚了，想跟新任丈夫生一个孩子。
+
+

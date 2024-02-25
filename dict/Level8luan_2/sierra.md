@@ -1,0 +1,20 @@
+# 音标
+
+- 英 `/sɪ'erə; sɪ'eərə/`
+- 美 `/sɪ'ɛrə/`
+
+# 词义
+
+n. [地理]锯齿山脊；呈齿状起伏的山脉
+`a row or area of sharply pointed mountains`
+
+# 同义
+
+n. [地理]锯齿山脊；呈齿状起伏的山脉
+`sawback`
+
+# 短语
+
+- `sierra leone` n. 塞拉利昂（非洲）
+- `sierra nevada` n. 内华达山脉（位于美国加州）
+

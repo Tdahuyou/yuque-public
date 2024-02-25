@@ -1,0 +1,40 @@
+# 音标
+
+- 英 `/'dʒʌmb(ə)l/`
+- 美 `/'dʒʌmbl/`
+
+# 词义
+
+n. 混乱；杂乱的一堆东西
+`a lot of different things mixed together in an untidy way, without any order`
+
+v. 混杂；搀杂
+`to mix things together in an untidy way, without any order`
+
+# 同义
+
+n. 混乱；杂乱的一堆东西
+`disorder` `chaos` `confusion` `turmoil` `involvement`
+
+vi. 混杂；搀杂
+`intermix`
+
+vt. 使混乱；搞乱
+`cloud` `confuse`
+
+# 同根
+
+- adj. `jumbled` 乱七八糟的
+- n. `jumbal` 轮状的薄糖果；薄脆小甜饼（等于jumble）
+- vt. `jumbled` 搞乱（jumble的过去分词）
+
+# 短语
+
+- `jumble sale` 旧货店拍卖；慈善义卖
+
+# 例句
+
+The shoreline was made up of a jumble of huge boulders.
+这海岸线由一堆杂乱的巨石构成。
+
+

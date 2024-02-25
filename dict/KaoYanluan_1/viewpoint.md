@@ -1,0 +1,25 @@
+# 音标
+
+- 英 `/'vjuːpɒɪnt/`
+- 美 `/'vjupɔɪnt/`
+
+# 词义
+
+n. 观点
+`a particular way of thinking about a problem or subject`
+
+
+
+view(见解)+point(点)→观点
+
+# 同义
+
+n. [计]观点，看法；视角
+`perspective` `outlook` `eye` `perception` `sentiment`
+
+# 例句
+
+Try and think of it from the child’s viewpoint.
+尽量从孩子的角度来考虑这件事。
+
+

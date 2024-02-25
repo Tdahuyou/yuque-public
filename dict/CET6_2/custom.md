@@ -1,0 +1,60 @@
+# 音标
+
+- 英 `/'kʌstəm/`
+- 美 `/'kʌstəm/`
+
+# 词义
+
+n. 海关
+`the place where your bags are checked for illegal goods when you go into a country`
+
+# 同义
+
+n. 习惯；风俗；海关
+`manner` `habit` `way`
+
+adj. 定制的，定做的
+`made-to-order` `tailored`
+
+# 同根
+
+- adj. `customary` 习惯的；通常的
+- adj. `customized` 定制的；用户化的
+- adv. `customarily` 通常，习惯上
+- n. `customary` 习惯法汇编
+- n. `customized` 自定义；客制化；自定义级别
+- v. `customized` 定制；按特别订货生产（customize的过去式和过去分词）
+- vt. `customize` 定做，按客户具体要求制造
+- vt. `customise` 依照顾客具体要求而制造（等于customize）
+
+# 短语
+
+- `folk custom` n. 民间习俗
+- `custom duty` 关税
+- `custom made` 定做的，非现成的；定制品
+- `custom design` （用户）定制设计
+- `local custom` 当地风俗；地方习惯
+- `social custom` 社会风俗
+- `custom clearance` 清关；外贸通关；进出口报关
+- `custom software` 定制软件
+- `custom declaration` 海关申报表
+- `custom colors` 自定义颜色
+- `custom service` 客户服务；海关服务；自定义服务
+- `custom synthesis` [生]委托合成
+- `custom code` 自定义代码
+- `custom officer` 报关员
+- `custom house` n. 海关
+- `custom office` 海关办事处
+
+# 例句
+
+She was stopped at customs and questioned.
+她在海关被叫住接受问话。
+
+It took ages to clear customs (= be allowed through customs ) but then we were out of the airport quite quickly.
+过海关花了很长时间，不过出机场倒是很快。
+
+You won’t be able to take that through customs.
+你带着那东西过不了海关的。
+
+

@@ -1,0 +1,37 @@
+# 音标
+
+- 英 `/feɪnt/`
+- 美 `/fent/`
+
+# 词义
+
+v. 佯攻；伪装
+`to pretend to hit someone in  boxing `
+
+n. 佯攻，佯击
+`a movement or an attack that is intended to deceive an opponent, especially in  boxing `
+
+
+
+注意不要和faint(adj. 虚弱的)相混
+
+# 同义
+
+n. 佯攻；伪装
+`dissemblance` `stalking-horse`
+
+vi. 佯攻；假装
+`act` `put on`
+
+vt. 佯攻
+`juke`
+
+adj. 假的
+`spurious` `unreal`
+
+# 例句
+
+I feinted to the left, then to the right.
+我佯装要攻到左方，然后再到右方。
+
+

@@ -2,7 +2,7 @@ const { SUB_TITLE } = require('./const')
 
 /* -- 同根词部分 -- */
 /*
-# ${SUB_TITLE.relWord}
+${SUB_TITLE.relWord}
 
 */
 function parseRelWord(word) {
@@ -12,14 +12,14 @@ function parseRelWord(word) {
     const rels = word.relWord.rels
     for (let i = 0; i < rels.length; i++) {
       const r = rels[i];
-      const words = r.words.map(w => `- \`${w.hwd}\` ${w.tran.trim()}`).join('\n')
-      text += `${r.pos}.` + '\n' + words + '\n\n';
+      text += (r.words.map(w => `- ${r.pos}. \`${w.hwd}\` ${w.tran.trim()}`).join('\n') + '\n');
     }
   }
 
-  return text ? `# ${SUB_TITLE.relWord}
+  return text ? `${SUB_TITLE.relWord}
 
-${text}` : ''
+${text}
+` : ''
 }
 
 exports.parseRelWord = parseRelWord;

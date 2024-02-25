@@ -1,0 +1,32 @@
+# 音标
+
+- 英 `/'ænɪkdəut/`
+- 美 `/'ænɪkdot/`
+
+# 词义
+
+n. 短故事；趣闻，轶事
+`a short story based on your personal experience`
+
+
+
+a + nec(看作neck， 脖子) + dote(溺爱) → 一个人伸着脖子听喜爱的趣闻、 轶事 → 趣闻， 轶事
+
+# 同义
+
+n. 轶事；奇闻；秘史
+`ana`
+
+# 同根
+
+- adj. `anecdotal` 轶事的；轶事一样的；多轶事的
+- adj. `anecdotic` 轶事的；爱谈轶事的
+- adj. `anecdotical` 轶事的；善谈轶事的
+- n. `anecdotist` 讲轶事的人；搜集轶事趣闻的人（等于anecdotalist）
+
+# 例句
+
+The book is full of amusing anecdotes about his life in Japan.
+这本书里全是他在日本生活的趣闻轶事。
+
+

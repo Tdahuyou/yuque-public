@@ -1,0 +1,48 @@
+# 音标
+
+- 英 `/'reɪʃ(ə)l/`
+- 美 `/'reʃl/`
+
+# 词义
+
+adj. 人种的；种族的
+`relating to the various races that humans can be divided into`
+
+
+
+来自race(n. 种族)
+
+# 同义
+
+adj. 种族的；人种的
+`ethnic` `tribal`
+
+# 同根
+
+- adv. `racially` 人种上；按人种
+- n. `racist` 种族主义者
+- n. `racism` 种族主义，种族歧视；人种偏见
+- n. `racialism` 种族主义；种族歧视；人种偏见
+- n. `racialist` 种族主义者
+
+# 短语
+
+- `racial discrimination` 种族歧视
+- `racial prejudice` 种族偏见
+- `racial segregation` 种族隔离
+- `racial hatred` 种族仇恨
+- `racial equality` 种族平等
+- `racial profiling` 种族定性；种族轮廓
+- `racial conflict` 种族冲突
+- `racial group` 种族群体；种族团体
+- `racial identity` 种族认同
+
+# 例句
+
+a broad range of racial and ethnic groups
+形形色色的种族和民族群体
+
+people of different racial origin
+不同种族背景的人
+
+

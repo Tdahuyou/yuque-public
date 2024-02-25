@@ -1,0 +1,34 @@
+# 音标
+
+- 英 `/ə'meɪz/`
+- 美 `/ə'mez/`
+
+# 词义
+
+v. 使大为吃惊，使惊奇
+`to surprise someone very much`
+
+
+
+“啊美死” → 使惊奇
+
+# 同义
+
+vt. 使吃惊
+`take aback` `take by surprise`
+
+# 同根
+
+- adj. `amazing` 令人惊异的
+- adj. `amazed` 惊奇的，吃惊的
+- adv. `amazingly` 令人惊讶地；惊奇地
+- n. `amazement` 惊异；惊愕
+- v. `amazing` 使吃惊（amaze的ing形式）
+- v. `amazed` 使…吃惊；把…弄糊涂（amaze的过去分词）
+
+# 例句
+
+Dave amazed his friends by suddenly getting married.
+戴夫突然结婚，令朋友们非常吃惊。
+
+

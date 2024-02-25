@@ -1,0 +1,25 @@
+# 音标
+
+- 英 `/mɪ'trɒp(ə)lɪs/`
+- 美 `/mə'trɑpəlɪs/`
+
+# 词义
+
+n. 首都,大城市
+`a very large city that is the most important city in a country or area`
+
+
+
+metro(大的) + polis(城市) → 大都市
+
+# 同义
+
+n. [建]大都市；首府；重要中心
+`bigalopolis`
+
+# 例句
+
+The city has become a huge, bustling metropolis.
+这座城市已变成繁忙的大都市。
+
+

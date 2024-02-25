@@ -1,0 +1,28 @@
+# 音标
+
+- 英 `/brɪ'geɪd/`
+- 美 `/brɪ'ged/`
+
+# 词义
+
+n. 旅；大部队；队列
+`a large group of soldiers forming part of an army`
+
+v. 把…编成旅；把…编成队
+
+
+# 同义
+
+n. 旅；大部队；队列
+`rank` `alignment`
+
+# 短语
+
+- `fire brigade` n. 消防队
+
+# 例句
+
+Snowmobile brigades delivered food and medicine.
+雪车队送来了食物和药品。
+
+

@@ -1,0 +1,25 @@
+# 音标
+
+- 英 `/'ɡrəʊsərɪ/`
+- 美 `/'ɡrosəri/`
+
+# 词义
+
+n. 杂货店
+`a shop/store that sells food and other things used in the home`
+
+# 同根
+
+- n. `grocer` 杂货店；食品商
+
+# 短语
+
+- `grocery store` 杂货店
+- `grocery bag` 食品杂货袋
+
+# 例句
+
+They run a small grocery store.
+他们经营一家小食品杂货店。
+
+

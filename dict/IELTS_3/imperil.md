@@ -1,0 +1,25 @@
+# 音标
+
+- 英 `/ɪm'perəl/`
+- 美 `/ɪm'pɛrəl/`
+
+# 词义
+
+vt. 使陷于危险，危及
+`to put something or someone in danger`
+
+
+
+im(进入) + per(冒险) + il → 使陷于危险， 危及
+
+# 同义
+
+vt. 危及；使陷于危险
+`endanger` `jeopard`
+
+# 例句
+
+Tax increases now might imperil economic recovery.
+目前提高税收可能会危及经济的复苏。
+
+

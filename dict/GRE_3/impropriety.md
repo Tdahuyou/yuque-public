@@ -1,0 +1,26 @@
+# 音标
+
+- 英 `/ˌɪmprə'praɪəti/`
+- 美 `/,ɪmprə'praɪəti/`
+
+# 词义
+
+n. 不得体的言行举止；不合适，不适当
+`behaviour or an action that is wrong or unacceptable according to moral, social, or professional standards`
+
+# 同义
+
+n. 不适当；不正确；用词错误；[审计]不正当行为
+`inadequacy` `inaptitude`
+
+# 同根
+
+- adj. `improper` 不正确的，错误的；不适当的；不合礼仪的
+- adv. `improperly` 不适当地；错误地
+
+# 例句
+
+Accusations of impropriety were made against the company’s directors.
+对公司董事不正当的行为提出了指控。
+
+
