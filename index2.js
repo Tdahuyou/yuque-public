@@ -42,7 +42,7 @@ function writeFile(file_path) {
   const result_folder_path = path.join(resultsFolderPath, basename)
 
   clearResultFolder(result_folder_path)
-  generateChapterMD(data.map(w => w.headWord), path.join(result_folder_path, `${basename}.md`))
+  generateChapterMD(data.map(w => w.headWord), path.join(result_folder_path, `${basename}.md`), basename)
 
   data.forEach((it, i) => {
 
