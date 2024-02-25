@@ -1,1 +1,1 @@
-electron 学习笔记
+[qwerty-learner](https://qwerty.kaiyi.cool/) 词典数据解析脚本。
