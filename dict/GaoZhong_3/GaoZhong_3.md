@@ -430,7 +430,7 @@
 - [ ] [lie](./lie.md)
 - [ ] [secure](./secure.md)
 - [ ] [smell](./smell.md)
-- [ ] [used to](./used to.md)
+- [ ] [used to](./used%20to.md)
 - [ ] [unable](./unable.md)
 - [ ] [glare](./glare.md)
 - [ ] [disappointed](./disappointed.md)
@@ -1514,7 +1514,7 @@
 - [ ] [anyhow](./anyhow.md)
 - [ ] [whistle](./whistle.md)
 - [ ] [handle](./handle.md)
-- [ ] [chain stores](./chain stores.md)
+- [ ] [chain stores](./chain%20stores.md)
 - [ ] [crossing](./crossing.md)
 
 # Chapter 067
@@ -2228,7 +2228,7 @@
 - [ ] [delight](./delight.md)
 - [ ] [immigration](./immigration.md)
 - [ ] [break](./break.md)
-- [ ] [chain store](./chain store.md)
+- [ ] [chain store](./chain%20store.md)
 
 # Chapter 098
 

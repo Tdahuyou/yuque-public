@@ -111,7 +111,7 @@
 - [ ] [translation](./translation.md)
 - [ ] [personnel](./personnel.md)
 - [ ] [cancer](./cancer.md)
-- [ ] [resumé](./resumé.md)
+- [ ] [resumé](./resum%C3%A9.md)
 - [ ] [outlook](./outlook.md)
 
 # Chapter 006

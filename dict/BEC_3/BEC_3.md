@@ -1100,7 +1100,7 @@
 - [ ] [afford](./afford.md)
 - [ ] [field](./field.md)
 - [ ] [sideline](./sideline.md)
-- [ ] [D/A](./D/A.md)
+- [ ] [D/A](./D%2FA.md)
 - [ ] [invalid](./invalid.md)
 
 # Chapter 049
@@ -1267,7 +1267,7 @@
 # Chapter 056
 
 - [ ] [accommodation](./accommodation.md)
-- [ ] [b/e](./b/e.md)
+- [ ] [b/e](./b%2Fe.md)
 - [ ] [lodge](./lodge.md)
 - [ ] [annoy](./annoy.md)
 - [ ] [inform](./inform.md)
@@ -1946,7 +1946,7 @@
 - [ ] [undertake](./undertake.md)
 - [ ] [optimize](./optimize.md)
 - [ ] [MB](./MB.md)
-- [ ] [down time](./down time.md)
+- [ ] [down time](./down%20time.md)
 - [ ] [bureau](./bureau.md)
 - [ ] [net](./net.md)
 - [ ] [complement](./complement.md)
@@ -1983,7 +1983,7 @@
 - [ ] [facilitate](./facilitate.md)
 - [ ] [endow](./endow.md)
 - [ ] [leverage](./leverage.md)
-- [ ] [c/o](./c/o.md)
+- [ ] [c/o](./c%2Fo.md)
 - [ ] [financial](./financial.md)
 - [ ] [dumb](./dumb.md)
 - [ ] [media](./media.md)

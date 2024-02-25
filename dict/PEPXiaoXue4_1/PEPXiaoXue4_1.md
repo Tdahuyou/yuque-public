@@ -7,7 +7,7 @@
 - [ ] [light](./light.md)
 - [ ] [picture](./picture.md)
 - [ ] [door](./door.md)
-- [ ] [teacher's desk](./teacher's desk.md)
+- [ ] [teacher's desk](./teacher's%20desk.md)
 - [ ] [computer](./computer.md)
 - [ ] [fan](./fan.md)
 - [ ] [wall](./wall.md)
@@ -18,9 +18,9 @@
 - [ ] [clean](./clean.md)
 - [ ] [help](./help.md)
 - [ ] [schoolbag](./schoolbag.md)
-- [ ] [maths book](./maths book.md)
-- [ ] [English book](./English book.md)
-- [ ] [Chinese book](./Chinese book.md)
+- [ ] [maths book](./maths%20book.md)
+- [ ] [English book](./English%20book.md)
+- [ ] [Chinese book](./Chinese%20book.md)
 
 # Chapter 002
 
@@ -31,7 +31,7 @@
 - [ ] [key](./key.md)
 - [ ] [wow](./wow.md)
 - [ ] [lost](./lost.md)
-- [ ] [so much](./so much.md)
+- [ ] [so much](./so%20much.md)
 - [ ] [cute](./cute.md)
 - [ ] [strong](./strong.md)
 - [ ] [friendly](./friendly.md)
@@ -48,7 +48,7 @@
 # Chapter 003
 
 - [ ] [bedroom](./bedroom.md)
-- [ ] [living room](./living room.md)
+- [ ] [living room](./living%20room.md)
 - [ ] [study](./study.md)
 - [ ] [kitchen](./kitchen.md)
 - [ ] [bathroom](./bathroom.md)
@@ -74,14 +74,14 @@
 - [ ] [spoon](./spoon.md)
 - [ ] [dinner](./dinner.md)
 - [ ] [ready](./ready.md)
-- [ ] [help yourself](./help yourself.md)
+- [ ] [help yourself](./help%20yourself.md)
 - [ ] [pass](./pass.md)
 - [ ] [try](./try.md)
 - [ ] [parents](./parents.md)
 - [ ] [cousin](./cousin.md)
 - [ ] [uncle](./uncle.md)
 - [ ] [aunt](./aunt.md)
-- [ ] [baby brother](./baby brother.md)
+- [ ] [baby brother](./baby%20brother.md)
 - [ ] [doctor](./doctor.md)
 - [ ] [cook](./cook.md)
 - [ ] [driver](./driver.md)
@@ -94,6 +94,6 @@
 # Chapter 005
 
 - [ ] [puppy](./puppy.md)
-- [ ] [football player](./football player.md)
+- [ ] [football player](./football%20player.md)
 - [ ] [job](./job.md)
 - [ ] [basketball](./basketball.md)

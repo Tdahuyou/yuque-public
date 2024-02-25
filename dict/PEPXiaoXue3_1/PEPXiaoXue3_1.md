@@ -7,7 +7,7 @@
 - [ ] [crayon](./crayon.md)
 - [ ] [bag](./bag.md)
 - [ ] [pen](./pen.md)
-- [ ] [pencil box](./pencil box.md)
+- [ ] [pencil box](./pencil%20box.md)
 - [ ] [book](./book.md)
 - [ ] [no](./no.md)
 - [ ] [your](./your.md)

@@ -11,7 +11,6 @@ const { parseSyno } = require('./parseSyno')
 const { parsePhrase } = require('./parsePhrase')
 const { parseSentence } = require('./parseSentence')
 const { generateChapterMD } = require('./generateChapterMD')
-const { generateChapterLink } = require('./generateChapterLink')
 const { clearResultFolder } = require('./clearResultFolder')
 
 let sourcesFolderPath = path.join(__dirname, SOURCE_FOLDER_NAME); // sources 目录的绝对路径
