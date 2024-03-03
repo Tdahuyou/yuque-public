@@ -1,13 +1,9 @@
 const { app, BrowserWindow, ipcMain } = require('electron')
 
 let win
-
 function createWindow() {
   win = new BrowserWindow({
-    webPreferences: {
-      nodeIntegration: true,
-      contextIsolation: false,
-    },
+    webPreferences: { nodeIntegration: true, contextIsolation: false },
   })
 
   win.webContents.openDevTools()
@@ -15,15 +11,8 @@ function createWindow() {
   win.loadFile('./index.html')
 }
 
-const now = () =>
-  new Date().toLocaleTimeString('en-US', {
-    hour12: false,
-    hour: '2-digit',
-    minute: '2-digit',
-    second: '2-digit',
-  })
-const sleep = (duration) =>
-  new Promise((resolve) => setTimeout(resolve, duration))
+const now = () => new Date().toLocaleTimeString('en-US', { hour12: false, hour: '2-digit', minute: '2-digit', second: '2-digit' })
+const sleep = (duration) => new Promise((resolve) => setTimeout(resolve, duration))
 
 function handleIPC() {
   ipcMain.handle('message-from-renderer', async (event, ...args) => {
