@@ -1,4 +1,4 @@
-const { app, BrowserWindow, ipcMain, Menu } = require('electron')
+const { app, BrowserWindow, Menu } = require('electron')
 
 let win
 function createWindow() {
@@ -14,6 +14,7 @@ function createMenu() {
 
   // 对 macos 特殊处理
   if (process.platform === 'darwin') {
+    console.log('macos productName:', app.getName())
     template.unshift({
       label: app.getName(),
       submenu: [
